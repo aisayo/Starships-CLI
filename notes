@@ -1,0 +1,12 @@
+1. build cli
+2. welcome user, prompt to either select a list, or tell exit 
+3. if they select list, print the list of starships 
+    1. starship 
+4. they can select starship by name to print details of ship
+4. if they select exit, goodbye exit program
+
+
+3 classes :
+CLI - controller - what communicates with my user
+starship - where objects are created and stored for user display
+API - bring in external, consume api here, instantiate my objects
